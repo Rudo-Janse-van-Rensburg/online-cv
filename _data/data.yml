@@ -47,11 +47,11 @@ sidebar:
      # Donec quam felis, ultricies nec, pellentesque eu.
      # Second paragraph if required.
 education:
-    - degree: BSc in Information and Knowledge Systems(Final year)
+    - degree: BSc in Information and Knowledge Systems
       university: University of Pretoria
-      time: 2017 - Ongoing
+      time: 2017 - 2020
       details: |
-        In this degree we cover the all the fundamentals of computer science as well as informatics. Such concepts include :
+          In this degree we cover the all the fundamentals of computer science as well as informatics. Such concepts include :
           - Theoretical Computer Science
           - Data Structures and Algorithms 
           - Information Systems
