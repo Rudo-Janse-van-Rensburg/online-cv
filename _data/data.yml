@@ -27,7 +27,7 @@ sidebar:
         level: Native
         
       - idiom: Afrikaans
-        level: Secondary
+        level: Second Additional
     interests:
       - item: Art
         link:
@@ -75,17 +75,7 @@ experiences:
       company: Spec Skills
       details: |
         The job involved developing a simple homepage, and contact page for a legal consultancy firm.
-        - <a href="http://specski.co.za/" target="_blank" rel="nofollow">Spec Skill Website</a>
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        - <a href="http://specski.co.za/" target="_blank" rel="nofollow">Spec Skills Website</a>
 skills:
     title: Skills &amp; Proficiency
 
@@ -93,12 +83,18 @@ skills:
       - name: Java
         level: 80%
 
+      - name: Assembly
+        level: 60% 
+        
       - name: Javascript & jQuery
         level: 70%
 
       - name: Angular
         level: 60%
 
+      - name: C++
+        level: 70%
+        
       - name: HTML5 & CSS
         level: 80%
 
