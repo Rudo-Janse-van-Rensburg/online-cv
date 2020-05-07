@@ -52,12 +52,12 @@ education:
       time: 2017 - Ongoing
       details: |
         In this degree we cover the all the fundamentals of computer science as well as informatics. Such concepts include :
-            - Theoretical Computer Science
-            - Data Structures and Algorithms 
-            - Information Systems
-            - Computer Organisation and Architecture
-            - Assembly
-            - Artificial Intelligence
+          - Theoretical Computer Science
+          - Data Structures and Algorithms 
+          - Information Systems
+          - Computer Organisation and Architecture
+          - Assembly
+          - Artificial Intelligence
 experiences:
     - role: Intern/Junior Developer
       time: February 2018 - June 2018
