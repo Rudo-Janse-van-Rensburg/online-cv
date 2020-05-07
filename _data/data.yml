@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Rudo Janse van Rensburg
     tagline: Student and Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: Screenshot from 2020-04-06 22-23-48.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: u17296928@tuks.co.za
@@ -25,7 +25,8 @@ sidebar:
     languages:
       - idiom: English
         level: Native
-
+      - idiom: Afrikaans
+        level: Second Addtional
     interests:
       - item: Art
         link:
@@ -36,65 +37,44 @@ sidebar:
       - item: Psychology
         link:
 
-career-profile:
-    title: Career Profile
-    summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+#career-profile:
+   #title: Career Profile
+    #summary: |
+     #summarise your career here lorem ipsum dolor sit amet, consectetuer
+     # adipiscing elit. You can [download this free resume/CV template here]().
+     # Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+     # penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+     # Donec quam felis, ultricies nec, pellentesque eu.
+     # Second paragraph if required.
 education:
-    - (currently doing)degree: BSc in Information and Knowledge Systems(2nd year)
+    - (currently doing)degree: BSc in Information and Knowledge Systems(Final year)
       university: University of Pretoria
       time: 2017 - Ongoing
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        In this degree we cover the all the fundamentals of computer science as well as informatics. 
+        Such concepts include :
+            - Theoretical Computer Science
+            - Data Structures and Algorithms 
+            - Information Systems
+            - Computer Organisation and Architecture
+            - Assembly
+            - Artificial Intelligence
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+    - role: Intern/Junior Developer
+      time: February 2018 - June 2018
+      company: Incatorque, Pretoria
+      details: | 
+          Part of the job description was largely bug fixing front-end related issues. Technologies used:
+          - Asp.NET MVC
+          - HTML
+          - CSS 
+          - Javascript
     - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+      time: December 2019
+      company: Spec Skills
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        The job involved developing a simple homepage, and contact page for a legal consultancy firm.
+        - <a href="http://specski.co.za/" target="_blank" rel="nofollow">Spec Skill Website</a>
 projects:
     title: Projects
     intro: >
@@ -105,22 +85,6 @@ projects:
       - title: Velocity
         link: "#hook"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 skills:
     title: Skills &amp; Proficiency
 
