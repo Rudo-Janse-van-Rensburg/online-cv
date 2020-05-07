@@ -9,18 +9,17 @@ sidebar:
     # Profile information
     name: Rudo Janse van Rensburg
     tagline: Student and Full Stack Developer
-    avatar: Screenshot from 2020-04-06 22-23-48.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: u17296928@tuks.co.za
     phone: 071 612 5820
     #website: blog.webjeda.com #do not add http://
     #linkedin: alandoe
-    #github: sharu725
+    github: rudo-janse-van-rensburg
     #gitlab:
     #bitbucket:
     #codewars:
-
 
     languages:
       - idiom: English
